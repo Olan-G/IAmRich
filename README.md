@@ -1,6 +1,6 @@
 # i_am_rich
 
-A Flutter project in the coding bootcamp in the Software Engineer Internship at Roompal.
+A Flutter project in the coding bootcamp of the Software Engineer Internship at Roompal.
 Activity created by App Brewery.
 
 ## Tasks
